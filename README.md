@@ -1,5 +1,5 @@
 A passionate python Developer from India
-👨‍💻 All of my projects are available at h[ttps://github.com/pstamil](https://github.com/MARIAMANOJE)
+👨‍💻 All of my projects are available at (https://github.com/MARIAMANOJE)
 
 💬 Ask me about python,nodejs,Github
 
