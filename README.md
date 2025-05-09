@@ -25,8 +25,8 @@ A passionate **Software Tester** from India, with hands-on experience in **manua
 
 ### 🛠️ **Tools & Technologies**
 
-* **Testing**: Manual Testing, Automation (Basics)
-* **Languages**: SQL, Python, JavaScript
+* **Testing**: Manual Testing, Automation 
+* **Languages**: SQL, Python,
 * **Web**: HTML5, CSS, Bootstrap, EJS, Node.js
 * **Others**: GitHub, MySQL, MS Excel
 
