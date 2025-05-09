@@ -1,6 +1,4 @@
-Here’s a revised version of your GitHub/portfolio **"About Me" section**, tailored for a **Software Tester** instead of a Python developer:
 
----
 
 ### 👩‍💻 **About Me**
 
